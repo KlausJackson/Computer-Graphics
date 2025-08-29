@@ -1,2 +1,4 @@
 # Computer-Graphics
-C++, OpenGL
+C++, OpenGL, FreeGlut
+
+
