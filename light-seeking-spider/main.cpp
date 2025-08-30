@@ -15,7 +15,7 @@ using namespace std;
 float roomSize = 20.0f, halfRoom = roomSize / 2.0f,
     camX = 0.0f, camY = 5.0f, camZ = 0.0f,
     camY_rotate = -90.0f, camX_rotate = 0.0f;
-float spiderX = 0.0f, spiderZ = 0.0f, spiderY = 5.0f, spiderY_rotate = 0.0f;
+float spiderX = 0.0f, spiderZ = 0.0f, spiderY = 1.0f, spiderY_rotate = 0.0f;
 float fov = 45.0f, animationTimer = 0.0f;
 bool isDragging = false, isMoving = false,
     lightEnabled[4] = {true, true, true, true};
